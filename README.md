@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" src="https://github.com/bharathkumarraju/Bharathkumarraju/blob/main/bharath.jpg" width="303" height="659" alt="banner that says Bharath - a cloud devops engineer, alongside a cartoon illustration of Bharath" style="float:left;">   
+<img align="right" src="https://github.com/bharathkumarraju/Bharathkumarraju/blob/main/bharath.jpg" width="303" height="659" alt="banner that says Bharath - a cloud Site Reliability Engineer, alongside an illustration of Bharath" style="float:left;">   
 
 <p align="left">I am a ☁️ Site Reliability Engineer who is passionate about designing and automating the process of software delivery and deployments on the cloud, and building community. Some technologies I enjoy working with include DevOps tools chain, cloud migration, <a href="https://aws.amazon.com/">Amazon Web Services</a>, <a href="https://console.cloud.google.com/">Google Cloud</a>, <a href="https://kubernetes.io/">Kubernetes</a>, <a href="https://www.docker.com/">Docker</a>, <a href="https://github.com/GoogleContainerTools">GoogleContainerTools</a>, <a href="https://prometheus.io/">Prometheus</a>, <a href="https://grafana.com/">Grafana</a>, <a href="https://www.elastic.co/what-is/elk-stack">ELK Stack</a>, <a href="https://grafana.com/oss/loki/">Loki</a>, <a href="https://www.terraform.io/">Terraform</a>, <a href="https://www.ansible.com/overview/it-automation">Ansible</a>. My interest in the cloud services ecosystem led me to earn <a href="https://www.credential.net/f9719cf5-f349-4122-9638-9b8a51980c11?key=0a25527d89821ebc6e89090faf361a26bdd59651bbaa0cb5b4413f9d4b2e4d1c#gs.n8bh35">Google Cloud Associate Cloud Engineer</a> certificate.</p>
 
