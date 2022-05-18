@@ -45,10 +45,7 @@ Here are some ideas to get you started:
 <br />
 
 ## My Github Stats 👨🏾‍💻:
-
-[![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharathkumarraju)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathkumarraju&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bharath's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumarraju&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)`#1589F0`
