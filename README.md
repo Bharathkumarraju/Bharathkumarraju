@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 
 ## My Github Stats 👨🏾‍💻:
 
-[![Github Stats By Bharath](https://github-readme-stats.vercel.app/api?username=bharathkumarraju&show_icons=true&theme=tokyonight&line_height=36&hide=["stars","prs"])](https://github.com/anuraghazra/github-readme-stats)
+[![Bharath's GitHub stats](https://github-readme-stats.vercel.app/api?username=bharathkumarraju)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
