@@ -31,16 +31,31 @@
 
 ---
 
-## 👨🏾‍💻 My GitHub Stats  
+## 👨🏾‍💻 My GitHub Stats
 
+<!-- Primary cards (simple & resilient) -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bharathkumarraju&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bharath's GitHub Stats" />
+  <img
+    alt="Bharath's GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=bharathkumarraju&show_icons=true&count_private=true&hide=issues&hide_border=true&cache_seconds=14400"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumarraju&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
+  <img
+    alt="Top Languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumarraju&layout=compact&hide_border=true&cache_seconds=14400"
+  />
 </p>
 
+<!-- Always-on fallback badges (will work even if the cards rate-limit) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumarraju&theme=buefy&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/bharathkumarraju?tab=followers">
+    <img src="https://img.shields.io/github/followers/bharathkumarraju?style=social" alt="Followers"/>
+  </a>
+  <a href="https://github.com/bharathkumarraju">
+    <img src="https://img.shields.io/github/stars/bharathkumarraju?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="Stars"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=bharathkumarraju&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
+
