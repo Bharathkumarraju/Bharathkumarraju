@@ -33,24 +33,30 @@
 
 ## 👨🏾‍💻 My GitHub Stats  
 <p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=bharathkumarraju&show_icons=true&count_private=true&hide=issues&theme=buefy&hide_border=true&cache_seconds=14400"
-    alt="Bharath's GitHub Stats"
-    width="430"
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=bharathkumarraju&show_icons=true&count_private=true&hide=issues&theme=tokyonight&hide_border=true&cache_seconds=14400" 
+    alt="Bharath's GitHub Stats" 
+    width="330" 
   />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumarraju&layout=compact&theme=buefy&hide_border=true&cache_seconds=14400&card_width=430"
-    alt="Top Languages"
-    width="430"
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumarraju&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=14400&card_width=330" 
+    alt="Top Languages" 
+    width="330" 
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumarraju&theme=tokyonight&hide_border=true" 
+    alt="GitHub Streak" 
+    width="330" 
   />
 </p>
 
 <p align="left">
   <a href="https://github.com/bharathkumarraju?tab=followers">
-    <img src="https://img.shields.io/github/followers/bharathkumarraju?style=social" alt="Followers"/>
+    <img src="https://img.shields.io/github/followers/bharathkumarraju?style=flat-square&color=0e75b6" alt="Followers"/>
   </a>
   <a href="https://github.com/bharathkumarraju">
-    <img src="https://img.shields.io/github/stars/bharathkumarraju?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="Stars"/>
+    <img src="https://img.shields.io/github/stars/bharathkumarraju?affiliations=OWNER%2CCOLLABORATOR&style=flat-square&color=yellow" alt="Stars"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=bharathkumarraju&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=bharathkumarraju&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile views"/>
 </p>
+
