@@ -35,12 +35,12 @@
   <img
     src="https://github-readme-stats.vercel.app/api?username=bharathkumarraju&show_icons=true&count_private=true&hide=issues&theme=tokyonight&hide_border=true&cache_seconds=14400"
     alt="Bharath's GitHub Stats"
-    width="420"
+    width="450"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumarraju&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=14400&card_width=420"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumarraju&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=14400&card_width=450"
     alt="Top Languages"
-    width="420"
+    width="450"
   />
 </p>
 
