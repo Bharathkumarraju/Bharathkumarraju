@@ -33,22 +33,22 @@
 
 ## 👨🏾‍💻 My GitHub Stats  
 
-<p align="center">
-  <!-- Stats card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=bharathkumarraju&show_icons=true&count_private=true&hide=issues&theme=buefy&hide_border=true&cache_seconds=14400" 
-    alt="Bharath's GitHub Stats" 
-    height="160" />
-  
-  <!-- Top languages card -->
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumarraju&layout=compact&theme=buefy&hide_border=true&cache_seconds=14400" 
-    alt="Top Languages" 
-    height="160" />
+## 👨🏾‍💻 My GitHub Stats
+
+<p align="left">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bharathkumarraju&show_icons=true&count_private=true&hide=issues&theme=buefy&hide_border=true&cache_seconds=14400"
+    alt="Bharath's GitHub Stats"
+    width="430"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumarraju&layout=compact&theme=buefy&hide_border=true&cache_seconds=14400&card_width=430"
+    alt="Top Languages"
+    width="430"
+  />
 </p>
 
-<p align="center">
-  <!-- Badges row -->
+<p align="left">
   <a href="https://github.com/bharathkumarraju?tab=followers">
     <img src="https://img.shields.io/github/followers/bharathkumarraju?style=social" alt="Followers"/>
   </a>
@@ -57,4 +57,3 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=bharathkumarraju&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
 </p>
-
