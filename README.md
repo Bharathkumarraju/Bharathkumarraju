@@ -30,23 +30,17 @@
 [CKA_BOOK!](https://cka.devops4itengineers.com/)
 
 ---
-
 ## 👨🏾‍💻 My GitHub Stats  
 <p align="left">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=bharathkumarraju&show_icons=true&count_private=true&hide=issues&theme=tokyonight&hide_border=true&cache_seconds=14400" 
-    alt="Bharath's GitHub Stats" 
-    width="330" 
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=bharathkumarraju&show_icons=true&count_private=true&hide=issues&theme=tokyonight&hide_border=true&cache_seconds=14400"
+    alt="Bharath's GitHub Stats"
+    width="420"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumarraju&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=14400&card_width=330" 
-    alt="Top Languages" 
-    width="330" 
-  />
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=bharathkumarraju&theme=tokyonight&hide_border=true" 
-    alt="GitHub Streak" 
-    width="330" 
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumarraju&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=14400&card_width=420"
+    alt="Top Languages"
+    width="420"
   />
 </p>
 
