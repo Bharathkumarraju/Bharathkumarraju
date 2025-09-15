@@ -26,10 +26,20 @@
 
 ---
 
-## 📖 My CKA book  
-[CKA_BOOK!](https://cka.devops4itengineers.com/)
+## 📖 My Publications  
+
+- [📘 CKA_BOOK!](https://cka.devops4itengineers.com/)  
+- [🤖 AI-LLM Learning Hub](https://aillm.devops4itengineers.com/)  
+
+### ✍️ Medium Articles
+1. [🚀 Deploy GHA Self-Hosted Runners on AWS EKS with Terraform and Helm](https://medium.com/@bhrth.dsra1/deploy-gha-self-hosted-runners-on-aws-eks-with-terraform-and-helm-6624815738b6)  
+2. [🔎 Tokenization & Visualizing Vector Embeddings in Multi-Dimensional Space (3D)](https://medium.com/@bhrth.dsra1/tokenization-visualizing-vector-embeddings-in-multi-dimensional-space-3d-dc4667402b4e)  
+3. [🛡️ Terraform 1.11.0 Unlocks Secure AWS RDS Secrets with Write-Only Attributes](https://medium.com/@bhrth.dsra1/terraform-1-11-0-unlocks-secure-aws-rds-secrets-with-write-only-attributes-047bf15d9a45)  
+4. [⚖️ Stateless vs Stateful Architectures](https://medium.com/@bhrth.dsra1/stateless-vs-stateful-b5cf56e92057)  
+5. [☁️ Google Cloud Container-Native Load Balancer](https://medium.com/@bhrth.dsra1/google-cloud-container-native-loadbalancer-f529e98e8fe5)  
 
 ---
+
 ## 👨🏾‍💻 My GitHub Stats  
 <p align="left">
   <img
@@ -53,4 +63,3 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=bharathkumarraju&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile views"/>
 </p>
-
