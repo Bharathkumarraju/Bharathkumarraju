@@ -32,9 +32,6 @@
 ---
 
 ## 👨🏾‍💻 My GitHub Stats  
-
-## 👨🏾‍💻 My GitHub Stats
-
 <p align="left">
   <img
     src="https://github-readme-stats.vercel.app/api?username=bharathkumarraju&show_icons=true&count_private=true&hide=issues&theme=buefy&hide_border=true&cache_seconds=14400"
