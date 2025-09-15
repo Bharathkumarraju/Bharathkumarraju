@@ -31,25 +31,24 @@
 
 ---
 
-## 👨🏾‍💻 My GitHub Stats
+## 👨🏾‍💻 My GitHub Stats  
 
-<!-- Primary cards (simple & resilient) -->
 <p align="center">
-  <img
-    alt="Bharath's GitHub Stats"
-    src="https://github-readme-stats.vercel.app/api?username=bharathkumarraju&show_icons=true&count_private=true&hide=issues&hide_border=true&cache_seconds=14400"
-  />
+  <!-- Stats card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=bharathkumarraju&show_icons=true&count_private=true&hide=issues&theme=buefy&hide_border=true&cache_seconds=14400" 
+    alt="Bharath's GitHub Stats" 
+    height="160" />
+  
+  <!-- Top languages card -->
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumarraju&layout=compact&theme=buefy&hide_border=true&cache_seconds=14400" 
+    alt="Top Languages" 
+    height="160" />
 </p>
 
 <p align="center">
-  <img
-    alt="Top Languages"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumarraju&layout=compact&hide_border=true&cache_seconds=14400"
-  />
-</p>
-
-<!-- Always-on fallback badges (will work even if the cards rate-limit) -->
-<p align="center">
+  <!-- Badges row -->
   <a href="https://github.com/bharathkumarraju?tab=followers">
     <img src="https://img.shields.io/github/followers/bharathkumarraju?style=social" alt="Followers"/>
   </a>
