@@ -48,6 +48,13 @@ Here are some ideas to get you started:
 [CKA_BOOK!](https://cka.devops4itengineers.com/)
 
 ## My Github Stats 👨🏾‍💻:
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathkumarraju&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bharath's github stats" /></a>
-
-![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+)`#1589F0`
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api?username=bharathkumarraju&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Bharath's GitHub Stats" />
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumarraju&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" />
+    </a>
+    <a href="https://github-readme-streak-stats.vercel.app/?user=bharathkumarraju&theme=buefy&hide_border=true" alt="GitHub Streak" />
+    </a>
+</p>
