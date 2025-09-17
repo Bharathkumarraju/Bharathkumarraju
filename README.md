@@ -37,6 +37,7 @@
 3. [🛡️ Terraform 1.11.0 Unlocks Secure AWS RDS Secrets with Write-Only Attributes](https://medium.com/@bhrth.dsra1/terraform-1-11-0-unlocks-secure-aws-rds-secrets-with-write-only-attributes-047bf15d9a45)  
 4. [⚖️ Stateless vs Stateful Architectures](https://medium.com/@bhrth.dsra1/stateless-vs-stateful-b5cf56e92057)  
 5. [☁️ Google Cloud Container-Native Load Balancer](https://medium.com/@bhrth.dsra1/google-cloud-container-native-loadbalancer-f529e98e8fe5)  
+6. [🔒 AWS Securely Share App to Clients with PrivateLink via Endpoint Service](https://medium.com/@bhrth.dsra1/aws-securely-share-app-to-clients-with-privatelink-via-endpoint-service-6215d9965c03)  
 
 ---
 
