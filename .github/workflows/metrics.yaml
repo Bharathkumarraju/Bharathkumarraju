@@ -1,10 +1,9 @@
-# Save this as: .github/workflows/metrics.yml
-# in your Bharathkumarraju/Bharathkumarraju profile repo
+# Save this as: .github/workflows/metrics.yml  (replaces the previous version)
 name: GitHub Metrics
 on:
   schedule:
-    - cron: "0 0 * * *"   # regenerate daily at midnight UTC
-  workflow_dispatch:       # allow manual runs from the Actions tab
+    - cron: "0 0 * * *"
+  workflow_dispatch:
   push:
     branches: ["main"]
 
@@ -14,23 +13,48 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: lowlighter/metrics@latest
+      # ── Card 1: Header + activity + community (no ugly zero-value repo section) ──
+      - name: General stats card
+        uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           user: bharathkumarraju
+          filename: metrics-general.svg
           template: classic
-          filename: github-metrics.svg
           config_timezone: Asia/Singapore
+          base: header, activity, community
 
-          # Base sections: header, activity, community, repositories
-          base: header, activity, community, repositories, metadata
-
-          # Languages card (replaces "Top Languages")
+      # ── Card 2: Languages donut + commit-time habits charts ──
+      - name: Languages and habits card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bharathkumarraju
+          filename: metrics-languages.svg
+          template: classic
+          config_timezone: Asia/Singapore
+          base: ""
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 30
+          plugin_habits_charts: yes
+          plugin_habits_facts: no
 
-          # Contribution calendar (replaces streak/contribution graph)
+      # ── Card 3: Full-year isometric contribution calendar ──
+      - name: Contribution calendar card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: bharathkumarraju
+          filename: metrics-isocalendar.svg
+          template: classic
+          config_timezone: Asia/Singapore
+          base: ""
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: half-year
+          plugin_isocalendar_duration: full-year
+
+

@@ -43,8 +43,13 @@
 
 ## 👨🏾‍💻 My GitHub Stats  
 
-<p align="left">
-  <img src="./github-metrics.svg" alt="Bharath's GitHub Metrics" width="800" />
+<p align="center">
+  <img src="./metrics-general.svg" alt="Bharath's GitHub Activity & Community Stats" width="49%" />
+  <img src="./metrics-languages.svg" alt="Most Used Languages & Commit Habits" width="49%" />
+</p>
+
+<p align="center">
+  <img src="./metrics-isocalendar.svg" alt="Full-Year Contribution Calendar" width="99%" />
 </p>
 
 <p align="left">
