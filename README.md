@@ -42,15 +42,45 @@
 ---
 
 ## 👨🏾‍💻 My GitHub Stats  
+
 <p align="left">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=bharathkumarraju&show_icons=true&count_private=true&hide=issues&theme=tokyonight&hide_border=true&cache_seconds=14400"
-    alt="Bharath's GitHub Stats"
-    width="450"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bharathkumarraju&theme=tokyonight"
+    alt="Bharath's GitHub Profile Details"
+    width="800"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bharathkumarraju&theme=tokyonight"
+    alt="Top Languages by Repo"
+    width="395"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=bharathkumarraju&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=14400&card_width=450"
-    alt="Top Languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bharathkumarraju&theme=tokyonight"
+    alt="Top Languages by Commit"
+    width="395"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bharathkumarraju&theme=tokyonight"
+    alt="GitHub Stats"
+    width="395"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bharathkumarraju&theme=tokyonight&utcOffset=8"
+    alt="Commit Time Distribution"
+    width="395"
+  />
+</p>
+
+<p align="left">
+  <img
+    src="https://streak-stats.demolab.com?user=bharathkumarraju&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak Stats"
     width="450"
   />
 </p>
