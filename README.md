@@ -43,9 +43,18 @@
 
 ## 👨🏾‍💻 My GitHub Stats  
 
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,kubernetes,docker,terraform,ansible,prometheus,grafana,elasticsearch,python,bash,git,githubactions&perline=7" alt="Tech Stack" />
+</p>
+
 <p align="center">
-  <img src="https://YOUR-APP-NAME.vercel.app/api?username=bharathkumarraju&show_icons=true&count_private=true&hide=issues&theme=tokyonight&hide_border=true" alt="Bharath's GitHub Stats" width="49%" />
-  <img src="https://YOUR-APP-NAME.vercel.app/api/top-langs/?username=bharathkumarraju&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
+  <img src="https://raw.githubusercontent.com/Bharathkumarraju/Bharathkumarraju/output/github-snake.svg" alt="Contribution Snake Animation" width="99%" />
+</p>
+
+<p align="center">
+  <img src="./metrics-languages.svg" alt="Most Used Languages" width="49%" />
 </p>
 
 <p align="center">
