@@ -44,8 +44,8 @@
 ## 👨🏾‍💻 My GitHub Stats  
 
 <p align="center">
-  <img src="./metrics-general.svg" alt="Bharath's GitHub Activity & Community Stats" width="49%" />
-  <img src="./metrics-languages.svg" alt="Most Used Languages & Commit Habits" width="49%" />
+  <img src="https://YOUR-APP-NAME.vercel.app/api?username=bharathkumarraju&show_icons=true&count_private=true&hide=issues&theme=tokyonight&hide_border=true" alt="Bharath's GitHub Stats" width="49%" />
+  <img src="https://YOUR-APP-NAME.vercel.app/api/top-langs/?username=bharathkumarraju&layout=donut&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages" width="42%" />
 </p>
 
 <p align="center">
