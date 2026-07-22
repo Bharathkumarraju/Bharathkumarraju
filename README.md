@@ -53,14 +53,6 @@
   <img src="https://raw.githubusercontent.com/Bharathkumarraju/Bharathkumarraju/output/github-snake.svg" alt="Contribution Snake Animation" width="99%" />
 </p>
 
-<p align="center">
-  <img src="./metrics-languages.svg" alt="Most Used Languages" width="49%" />
-</p>
-
-<p align="center">
-  <img src="./metrics-isocalendar.svg" alt="Full-Year Contribution Calendar" width="99%" />
-</p>
-
 <p align="left">
   <a href="https://github.com/bharathkumarraju?tab=followers">
     <img src="https://img.shields.io/github/followers/bharathkumarraju?style=flat-square&color=0e75b6" alt="Followers"/>
@@ -70,3 +62,4 @@
   </a>
   <img src="https://komarev.com/ghpvc/?username=bharathkumarraju&label=Profile%20views&color=brightgreen&style=flat-square" alt="Profile views"/>
 </p>
+
